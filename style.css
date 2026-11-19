@@ -67,7 +67,7 @@ article {
     display: flex;
     flex-direction: column;
     padding: 1.875rem;
-    margin-top: 100px;
+    margin-top: 2rem;
     border-radius: 1.25rem;
     gap: 1.25rem;
 }
